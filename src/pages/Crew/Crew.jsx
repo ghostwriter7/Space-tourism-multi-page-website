@@ -2,7 +2,7 @@ import React from "react";
 import "./Crew.styles.css";
 
 const Crew = () => {
-  return <></>;
+  return <div className="bg-crew"></div>;
 };
 
 export default Crew;

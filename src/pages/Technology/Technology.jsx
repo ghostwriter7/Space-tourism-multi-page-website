@@ -2,7 +2,7 @@ import React from "react";
 import "./Technology.styles.css";
 
 const Technology = () => {
-  return <>Tech page</>;
+  return <div className="bg-technology"></div>;
 };
 
 export default Technology;

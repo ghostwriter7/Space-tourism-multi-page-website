@@ -2,7 +2,7 @@ import React from "react";
 import "./Home.styles.css";
 
 const Home = () => {
-  return <>Home page</>;
+  return <div className="bg-home">a</div>;
 };
 
 export default Home;
